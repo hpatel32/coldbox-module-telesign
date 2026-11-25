@@ -1,0 +1,40 @@
+{
+	"name": "coldbox-module-telesign",
+	"slug": "telesign",
+	"version": "2.0.0+0001",
+	"author": "DealStream",
+	"type": "modules",
+	"shortDescription": "Telesign API integration for ColdBox applications.",
+	"description": "A ColdBox module that provides Telesign API interface for phone verification, messaging, and identity services.",
+	"keywords": [
+		"coldbox",
+		"coldfusion",
+		"cfml",
+		"module",
+		"telesign",
+		"api",
+		"phone-verification",
+		"sms",
+		"identity"
+	],
+	"homepage": "https://github.com/DealStream/coldbox-module-telesign",
+	"documentation": "https://github.com/DealStream/coldbox-module-telesign#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DealStream/coldbox-module-telesign.git"
+	},
+	"bugs": {
+		"url": "https://github.com/DealStream/coldbox-module-telesign/issues"
+	},
+	"copyright": "Copyright (c) 2026 DealStream",
+	"private": true,
+	"dependencies": {},
+	"devDependencies": {},
+	"ignore": [
+		".git/**",
+		".gitattributes",
+		".gitignore",
+		"tests/**",
+		"testbox/**"
+	]
+}
